@@ -31,4 +31,4 @@
 ## 补充说明
 
 本项目欢迎大佬fork和提出pr 
-本项目是该注入器的UI部分，核心代码在AinjectorLib中,用c++编写以dll形式供给本UI调用
+本项目是注入器UI部分,核心代码在AinjectorLib中,用c++编写以dll形式供给本UI调用
