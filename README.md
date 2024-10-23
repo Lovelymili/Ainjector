@@ -17,7 +17,7 @@
 
 >> 请确保您已安装.net8 该项目基于此版本开发
 
->> 请确保您已把AinjictorLib.dll复制到项目根目录下 [Github]: http://github.com/Lovelymili/AinjectroLib
+>> 请确保您已把AinjictorLib.dll复制到项目根目录下 [Github]: http://github.com/Lovelymili/AinjectorLib
 
 
 ## 使用方式
